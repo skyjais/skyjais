@@ -10,12 +10,11 @@
 ---
 
 ## 🚀 About Me
-
+- 👨‍💻 All of my projects are available at **https://skyjais.github.io**
 - 🔭 I'm currently working on **Microservices-based Likedin Clone**
 - 🌱 Mastering **Spring Boot, Microservices, and Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Java Projects**
 - 💬 Ask me about **React, Redux, Java, Spring Boot, Microservices**
--  👨‍💻 All of my projects are available at **https://skyjais.github.io**
 - ⚡ Fun fact: I love solving complex problems and building scalable architectures
 
 ---
@@ -78,9 +77,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-</p>
 
 <p align="center"> 
   <strong><i>Let's connect and build something amazing together!</i></strong>
