@@ -76,7 +76,15 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
 
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyjais&layout=compact&theme=radical" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=skyjais&show_icons=true&theme=radical" />
+
+</p>
 
 <p align="center"> 
   <strong><i>Let's connect and build something amazing together!</i></strong>
